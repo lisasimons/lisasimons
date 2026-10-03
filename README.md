@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 # Lisa Simons
-Business Analysis · Product management · Information Architecture
+Senior Business Analyst · Sydney, Australia
 
 ## What I do
-Senior Business Analyst · Sydney, Australia
+Business Analysis · Product management · Information Architecture · Consulting
 
 | Area | In practice |
 |---|---|
